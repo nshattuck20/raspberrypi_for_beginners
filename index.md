@@ -4,13 +4,16 @@
 
 <!--Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
 
-Welcome students! As the title suggests, this webpage is for the Introduction to Raspberry Pi course. Students are encouraged visit this site for a printed version of the course content in an easily accessible format. Please note, **students do not need to have prior experience building computers or programming to participate in this course.** However, if you have dabbled in the computing world before, students are still encouraged to participate!  In this course, students will learn to: 
+Welcome students! As the title suggests, this webpage is for the Introduction to Raspberry Pi course. Students are encouraged to use this website to supplment their learning throughout the duration of this course. **Students do not need to have prior experience building computers or programming to participate in this course.** However, if you have dabbled in the computing world before, students are still encouraged to participate!  The contents of this course are listed in the links below.  
 
-- Build their first computer: The Raspberry Pi 
-- Use NOOBS to install the Raspbian Operating System
-- Explore the Raspbian operating system 
-- Using the terminal to create directories, textifiles, and update our system...and much more. 
+<!-- Need Links relative links for each --> 
+- Unit 1: Build your first computer with the Raspberry Pi. 
+- Unit 2: Installing the Raspbian operating system with NOOBS. 
+- Unit 3: Introduction to the Raspbian Operating System.
+- Unit 4: Introduction to using terminal commands.  
 
+
+#### Please feel free to contact me at: nshattuck@tacomacc.edu 
 <!--
 ### Markdown
 
