@@ -41,10 +41,30 @@ but here are a few of them just to give you an idea:
 * #### Raspberry Pi Zero 
     The smallest and cheapest model. You'll notice that the Zero is stripped of all of the hardware components of the Model 3 and Model 4. Don't let it's 
     minimal appearance fool you! 
-  
+
+As you can see, the Raspberry Pi comes in various builds that are each catered to a diverse array of projects. Once you become familiar with your Raspberry Pi, 
+learning how to work with a different model is merely a matter of applying what you've already learned! Now that we've covered the different Raspberry Pi models, let's talk about your Canakit Raspberry Pi bundle. 
 
 ### Your Raspberry Pi Kit 
+<!-- I will need pictures of my own set up for this section that I will add at a later time. --> 
+It's time to unbox your Raspberry Pi! (I know, you probably unboxed it and skipped the previous sections).  Your kit comes bundled with quite a few gadgets that you might be familiar with, and others will be completely alien to you. Don't worry, we won't be using everything in this course. The hardware you will 
+need for now are the: 
+1. Raspberry Pi computer board  
+2. Keyboard and mouse
+3. White/Black Raspberry Pi case 
+4. Micro HDMI to HDMI cable and power adapter 
+5. 3 aluminium heat sinks 
+6. Black cooling fan 
+7. Miro SD card (this contains your operating system!) 
+8. Extension power switch (optional) 
+
+**We will not be using the camera in this course** , so you can put that aside for now. We will eventually be plugging your computer into the monitor as well, but for now let's focus soley on the Pi. In fact, let's only focus on the Raspberry Pi board itself. It's important to have some basic understanding of the layout of the board before we start plugging everything in. Furthermore, it allows us to get the best performance out of our Pi so that we don't use uneccessary resources. 
 
 ### Understanding your Pi 
 
+While your kit does come with a insturction manual (which is really helpful I might add), sometimes I find that seeing a diagram of a real Pi to be 
+more helpful. The image below is a picture of my own Raspberry Pi with the heat sinks already attached. You'll know that it's mine because one of my 
+heat sinks is crooked (I tape to the beat of my own drumb, okay?). My magnificent taping abilities aside, I think this will be helpful in demonstrating where you will eventually attach them. There's quite a bit going on here but I have broken down the components of the Pi to only the areas we will be working with. 
+
 ### Connecting the mouse and keyboard. 
+<!-- Need to note that any USB keyboard and mouse will work with the Pi --> 
