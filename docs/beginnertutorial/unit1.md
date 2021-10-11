@@ -68,6 +68,6 @@ While your kit does come with a instruction manual (which is really helpful I mi
 
 Click the link below for the next page, we will begin connecting the peices together! 
 
-[--> Connecting the mouse and keyboard](/docs/beginnertutorial/unit1_pt2.md)
+[--> Next](/docs/beginnertutorial/unit1_pt2.md)
 <!-- Need to note that any USB keyboard and mouse will work with the Pi --> 
 
