@@ -10,11 +10,11 @@ This section will cover the following topics:
 
 ### What is a Raspberry Pi, anyways? 
 <!-- Need an embedded image --> 
-One of the largest barriers preventing more students from learning about computing is the cost of technology. The Raspberry Pi was built in response to 
-combat this barrier in hopes that more students around the world could have more access to the world of computer science. The Raspberry Pi is a single board 
-computer roughly the size of a credit card and a popular tool among educators, hobbyists, and professionals for learning the basics of computer science. 
-They are cute and huggable (in a sort of modular, pokey sort of huggy) and their small size enables students to easily transport 
-them between different locations and projects. They are computers in every sense despite their size. The latest model, the Raspberry Pi 4 Model B, touts the 
+![Raspberry Pi Model 4](/docs/assets/images/stock_raspberryPi_4.jpeg)
+
+Cost is one of the largest barriers preventing schools districts, families, and students from having access to computing cirriculum. The Raspberry Pi was built in response to combat this barrier to provide students with an easily accessable and affordable option. The Raspberry Pi is a single board computer roughly the size of a credit card. It's a popular tool among educators, hobbyists, and professionals for learning the basics of computer science. 
+
+Also worth noting is their cute and huggable appearance. I imagine hugging them would be similar to hugging a hedgehog in that they are prickly, modular, and their small size is rather huggable isn't it? It's small size also enables students to easily transport them between different locations and projects. They are computers in every sense despite their size. The latest model, the Raspberry Pi 4 Model B, touts the 
 following specs: 
 
 Model     | RAM  | GHz (Processor) 
@@ -30,7 +30,7 @@ of tools to beginners and professionals alike!
 The Raspberry Pi comes in various models capable of accomplishing a variety of different objectives. I won't go into detail about all of them (there are alot) 
 but here are a few of them just to give you an idea: 
 * #### Rasbperry Pi 4 Model B 
-  <!-- Need images of each model --> 
+  <!-- Just need a link to a raspberrypi.org for each model?  --> 
     This is the model that comes bundled with your Canakit Raspberry Pi Kit. You can think of it as the "Jack of all trades" model, in that it is capable 
   of handling all sorts of tasks. You can game on them, build weather stations, use the GPIO pins to communicate with other hardware, and loads more. What seperates 
   the Model 4 from legacy models are more modern features such as Bluetooth, higher RAM capacities, and faster processors. 
@@ -62,9 +62,12 @@ need for now are the:
 
 ### Understanding your Pi 
 
-While your kit does come with a insturction manual (which is really helpful I might add), sometimes I find that seeing a diagram of a real Pi to be 
-more helpful. The image below is a picture of my own Raspberry Pi with the heat sinks already attached. You'll know that it's mine because one of my 
-heat sinks is crooked (I tape to the beat of my own drumb, okay?). My magnificent taping abilities aside, I think this will be helpful in demonstrating where you will eventually attach them. There's quite a bit going on here but I have broken down the components of the Pi to only the areas we will be working with. 
+While your kit does come with a instruction manual (which is really helpful I might add), I find that seeing an image of a used Pi with parts attached provides a better of sense of where parts attach. The image below is a picture of my own Raspberry Pi with the heat sinks already attached. You'll know that it's mine because my heat sinks are a bit crooked (I tape to the beat of my own drumb, okay?). My magnificent taping abilities aside, I think this will be helpful in demonstrating where you will eventually attach them. There's quite a bit going on here but I have broken down the components of the Pi to only the areas we will be working with. 
 
-### Connecting the mouse and keyboard. 
+![Photo of personal raspberry pi with heat sinks attached](/docs/assets/images/raspberry_pi_layout.png)
+
+Click the link below for the next page, we will begin connecting the peices together! 
+
+[--> Connecting the mouse and keyboard](/../../unit1_pt2.md)
 <!-- Need to note that any USB keyboard and mouse will work with the Pi --> 
+
