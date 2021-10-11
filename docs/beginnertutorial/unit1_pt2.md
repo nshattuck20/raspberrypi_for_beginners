@@ -1,6 +1,6 @@
 ## Connecting the mouse and keyboard 
 <!-- mouse &  keyboard picture --> 
-![Keyboard and mouse](/docs/assets/images/keyboard_mouse.png)
+<!-- ![keyboard_mouse](docs/assets/images/keyboard_mouse.jpeg) --> dead image
 
 Now that we have enclosed your Raspberry Pi in it's protective case, let's begin by plugging in the mouse and keybaord. Your kit includes a keyboard and mouse, but I should point out that any USB mouse and keyboard will work just fine in the event you misplace or damage these keyboards. Also included with the keyboard is a red micro USB to USB cable <!-- picture needed -->. 
 #### Connect the keyboard 
@@ -13,4 +13,5 @@ Now that we have enclosed your Raspberry Pi in it's protective case, let's begin
 #### Connect the mouse
 <!-- picture of mouse connecting to USB 2.0 port. --> 
 
-![Keyboard and mouse](/docs/assets/images/keyboard_microusb.png)
+<!-- ![Keyboard and mouse](/docs/assets/images/keyboard_microusb.png) dead image  -->
+
